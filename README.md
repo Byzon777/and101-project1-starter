@@ -35,6 +35,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+![Screenshot_20250612_014316](https://github.com/user-attachments/assets/f4deed12-43d4-4cf1-b971-cdf1f56c8015)
+
+
 <img src='https://drive.google.com/file/d/1CLEugKjYsR59WuQjnc4quSpRhwkigeoz/view?usp=sharing' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
